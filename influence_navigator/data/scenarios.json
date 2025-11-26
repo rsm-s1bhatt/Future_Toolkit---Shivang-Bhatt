@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "title": "Pitching a Risky Idea to Senior Leadership",
+    "description": "You need approval for a bold idea that challenges the status quo. Leadership is generally risk-averse.",
+    "options": [
+      {
+        "label": "Lead with emotion to inspire them (Pathos)",
+        "tactic": "Pathos",
+        "is_best": false,
+        "explanation": "Emotion alone won\u2019t reduce perceived risk. You may inspire curiosity, but this audience needs certainty."
+      },
+      {
+        "label": "Assert authority and push the idea hard (Might)",
+        "tactic": "Might",
+        "is_best": false,
+        "explanation": "Pushing creates resistance, especially with senior stakeholders. They don\u2019t like being pressured."
+      },
+      {
+        "label": "Lead with evidence and risk-reduction data (Logos)",
+        "tactic": "Logos",
+        "is_best": true,
+        "explanation": "This is the strongest approach. Risk-averse audiences respond best to data, precedents, and predictable outcomes."
+      }
+    ],
+    "teaching_points": [
+      "Match tactic to the audience's risk perception.",
+      "Use Logos + Ethos when challenging the status quo."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "A Teammate Isn\u2019t Supporting Your Project",
+    "description": "You need a teammate\u2019s support, but they seem disengaged and unmotivated to help.",
+    "options": [
+      {
+        "label": "Offer something valuable that helps them first (Exchange)",
+        "tactic": "Exchange",
+        "is_best": true,
+        "explanation": "This is ideal when motivation is low. A costly, unselfish offer changes the relational dynamic."
+      },
+      {
+        "label": "Escalate to your manager to force cooperation (Might)",
+        "tactic": "Might",
+        "is_best": false,
+        "explanation": "This may get compliance but damages the relationship long-term."
+      },
+      {
+        "label": "Appeal to logic explaining why the project matters (Logos)",
+        "tactic": "Logos",
+        "is_best": false,
+        "explanation": "If they're disengaged, logic won\u2019t shift their motivation."
+      }
+    ],
+    "teaching_points": [
+      "Use Exchange to shift low-motivation situations.",
+      "Leading with generosity creates influence over time."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Navigating a Conflict Between Two Team Members",
+    "description": "Two colleagues on your team are in conflict, disrupting progress. You're not their manager but need the team to function.",
+    "options": [
+      {
+        "label": "Take sides with the person you agree with more (Pathos)",
+        "tactic": "Pathos",
+        "is_best": false,
+        "explanation": "This escalates the conflict and destroys neutrality."
+      },
+      {
+        "label": "Facilitate a structured conversation where both share perspectives (Procedural Fairness)",
+        "tactic": "Procedural Fairness",
+        "is_best": true,
+        "explanation": "This creates fairness, voice, and mutual understanding \u2014 often reducing conflict."
+      },
+      {
+        "label": "Avoid the situation entirely and hope it resolves",
+        "tactic": "Avoidance",
+        "is_best": false,
+        "explanation": "Avoidance rarely resolves interpersonal conflict and may worsen team performance."
+      }
+    ],
+    "teaching_points": [
+      "Procedural fairness can defuse strained relationships.",
+      "Your role isn\u2019t to solve the conflict \u2014 but to create the container for resolution."
+    ]
+  }
+]
